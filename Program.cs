@@ -12,6 +12,7 @@ namespace ConsoleApp35
         {
             Console.WriteLine("birinchi info");
             Console.WriteLine("ikkichi info");
+            Console.WriteLine("uchinchi info");
         }
     }
 }
