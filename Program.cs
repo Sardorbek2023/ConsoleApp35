@@ -11,6 +11,7 @@ namespace ConsoleApp35
         static void Main(string[] args)
         {
             Console.WriteLine("birinchi info");
+            Console.WriteLine("ikkichi info");
         }
     }
 }
