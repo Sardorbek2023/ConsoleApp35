@@ -15,6 +15,7 @@ namespace ConsoleApp35
             Console.WriteLine("uchinchi info");
             Console.WriteLine("uchinchi info");
             Console.WriteLine("to'rtinchi info");
+
         }
     }
 }
